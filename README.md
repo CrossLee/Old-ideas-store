@@ -23,3 +23,4 @@ TODO
 - [土豆的差价](https://github.com/CrossLee/old-ideas-store/wiki/%E5%9C%9F%E8%B1%86%E7%9A%84%E5%B7%AE%E4%BB%B7)
 - [指纹机器](https://github.com/CrossLee/old-ideas-store/wiki/%E6%8C%87%E7%BA%B9%E6%9C%BA%E5%99%A8)
 - [SS 的手工费](https://github.com/CrossLee/old-ideas-store/wiki/SS-%E7%9A%84%E6%89%8B%E5%B7%A5%E8%B4%B9)
+- [储值卡的秘密](https://github.com/CrossLee/old-ideas-store/wiki/%E5%82%A8%E5%80%BC%E5%8D%A1%E7%9A%84%E7%A7%98%E5%AF%86)
