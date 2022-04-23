@@ -1,3 +1,5 @@
+<div align=center><img width="200" height="200" src="https://user-images.githubusercontent.com/4584905/164882415-7a970539-720b-4589-a2b5-7c92d1e87e2d.png"/></div>
+
 # Old ideas store
 A collection of **OLD** money-making ideas. You may not make money directly from these ideas, but I hope it will inspire you.
 
@@ -15,7 +17,6 @@ All the materials are collected from the internet and contributed by netizens, w
 
 TODO
 
-投稿时可以提供个赞赏码，打赏随意。
 
 # Ideas list
 
