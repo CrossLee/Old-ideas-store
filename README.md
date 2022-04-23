@@ -9,7 +9,7 @@ All the materials are collected from the internet and contributed by netizens, w
 
 版权声明
 
-所有素材均来自网络收集以及网友投稿，由 old-ideas-store 整理发布。若存在版权问题，请联系作者删除。
+所有素材均来自网络收集以及网友投稿，由 old-ideas-store 整理发布。若存在版权问题，请联系作者删除或添加来源声明。
 
 # how to contribute
 
@@ -17,4 +17,4 @@ TODO
 
 # ideas list
 
-- 土豆的差价
+- [土豆的差价](https://github.com/CrossLee/old-ideas-store/wiki/%E5%9C%9F%E8%B1%86%E7%9A%84%E5%B7%AE%E4%BB%B7)
