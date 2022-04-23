@@ -20,3 +20,4 @@ TODO
 - [无人机的佣金](https://github.com/CrossLee/old-ideas-store/wiki/%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%9A%84%E4%BD%A3%E9%87%91)
 - [土豆的差价](https://github.com/CrossLee/old-ideas-store/wiki/%E5%9C%9F%E8%B1%86%E7%9A%84%E5%B7%AE%E4%BB%B7)
 - [指纹机器](https://github.com/CrossLee/old-ideas-store/wiki/%E6%8C%87%E7%BA%B9%E6%9C%BA%E5%99%A8)
+- [SS 的手工费](https://github.com/CrossLee/old-ideas-store/wiki/SS-%E7%9A%84%E6%89%8B%E5%B7%A5%E8%B4%B9)
