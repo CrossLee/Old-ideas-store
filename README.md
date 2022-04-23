@@ -15,6 +15,8 @@ All the materials are collected from the internet and contributed by netizens, w
 
 TODO
 
+投稿时可以提供个赞赏码，打赏随意。
+
 # Ideas list
 
 - [无人机的佣金](https://github.com/CrossLee/old-ideas-store/wiki/%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%9A%84%E4%BD%A3%E9%87%91)
