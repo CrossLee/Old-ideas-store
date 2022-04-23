@@ -23,4 +23,18 @@ All the materials are collected from the internet and contributed by netizens, w
 
 # How to contribute
 
-TODO
+Welcome to pull requests.
+
+1. Fork this repo.
+2. Create a page at wiki panel.
+3. Update README.md with your wiki page link.
+4. Create pull request.
+
+欢迎提交 PR。
+
+1. Fork 一份 Repo 到你的 GitHub 账号。
+2. 在 Wiki 页签创建一个 page。
+3. 修改 README.md 里按照格式添加一个链接到第 2 步创建的页面。
+4. 提交 PR。
+
+
