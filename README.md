@@ -14,6 +14,7 @@ All the materials are collected from the internet and contributed by netizens, w
 所有素材均来自网络收集以及网友投稿，由 old-ideas-store 整理发布。不对其真实性负责，若存在版权问题，请联系作者删除或添加来源声明。
 
 # Ideas list
+- [偷懒的视频搬运](https://github.com/CrossLee/Old-ideas-store/wiki/%E5%81%B7%E6%87%92%E7%9A%84%E8%A7%86%E9%A2%91%E6%90%AC%E8%BF%90)
 - [月入 3k ~ 4k 的微信支付副业实践](https://github.com/CrossLee/Old-ideas-store/wiki/%E6%9C%88%E5%85%A5-3k-~-4k-%E7%9A%84%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%89%AF%E4%B8%9A%E5%AE%9E%E8%B7%B5)
 - [月入 4600 的游戏网站](https://github.com/CrossLee/Old-ideas-store/wiki/%E6%9C%88%E5%85%A5-4600-%E7%9A%84%E6%B8%B8%E6%88%8F%E7%BD%91%E7%AB%99)
 - [从开源到订阅，月入 98K RMB](https://github.com/CrossLee/Old-ideas-store/wiki/%E4%BB%8E%E5%BC%80%E6%BA%90%E5%88%B0%E8%AE%A2%E9%98%85%EF%BC%8C%E6%9C%88%E5%85%A5-98K-RMB)
